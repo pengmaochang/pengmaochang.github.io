@@ -2,7 +2,6 @@
 layout:       post
 title:        "使用指南"
 author:       "彭彭"
-header-img: "img/image4.png"
 tags:
     - github
 ---
@@ -25,6 +24,7 @@ tags:
         - 产品
     ---
    ```
+   header-img为空则默认加载主页图片，如果设置`header-style: text`，则使用文字样式标题
 4. 有图片的，直接在编写是黏贴，会默认把图片放到当前路径下
 5. 全部编写完毕后，需要把图片剪切到img文件夹，并更新md里的路径：ctrl+f，把`](/`替换成`](/img/`
 6. 提交代码即可
