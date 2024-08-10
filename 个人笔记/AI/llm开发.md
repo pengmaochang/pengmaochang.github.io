@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "大模型开发学习2"
+title:        "AI学习"
 author:       "彭彭"
 header-style: text
 catalog:      true
