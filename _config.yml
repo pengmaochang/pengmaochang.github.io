@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: terrots@qq.com
 description: "思考，行动，前进"
 keyword: "思考，行动，前进"
-url: "https://terr.store" # your host, for absolute URL
+url: "https://pengmaochang.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
