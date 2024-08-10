@@ -2,7 +2,7 @@
 layout:       post
 title:        "使用指南"
 author:       "彭彭"
-header-img: "/img/image4.png"
+header-img: "img/image4.png"
 tags:
     - github
 ---
@@ -34,7 +34,7 @@ tags:
 2. 获取html文件，例如在md中右键打印为html
 3. 删掉最头的html文件声明`<!DOCTYPE html>`
 4. 增加上述的文章注释
-5. 修改图片的连接：ctrl+f，把`file:///`替换成空
+5. 修改图片的连接：ctrl+f，把`file:////`替换成空
 
 # 新增目录
 1. 在post以外的路径，新增md或html文件，做法和上述相同
